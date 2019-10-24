@@ -1,4 +1,6 @@
-# crime_busters
+# Crime Busters
+## Background
+## Objective 
 
 Group 3: Project Proposal
 
