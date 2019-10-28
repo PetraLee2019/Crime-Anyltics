@@ -6,6 +6,7 @@ Live Link: https://crime-busters.herokuapp.com/
 - The Chicago metro area saw its poverty rate drop to 12.4% in 2016 from 13.3% the year before, according to American Community Survey data released by the U.S. Census Bureau.
 - Meanwhile, median household income increased 3.2% in the Chicago metro area, to $66,020
 
+![Alt Tag](https://github.com/PetraLee2019/Crime-Busters-/blob/master/Images/Crime%20and%20Unemployment%20Geo-Map.jpg?raw=true)
 ## Objective 
 
 - Collected socioeconomic parameters such as unemployment rates, salary rates to compare them with crime rates in Chicago. 
