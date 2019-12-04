@@ -15,4 +15,4 @@ Live Link: https://crime-busters.herokuapp.com/
 - Created interactive plotly bar and bubble charts.
 
 ## Technology Tools
-- Python, API, HTML/CSS, JavaScript, postgres-SQL, GoogleMaps.
+- Python, API, HTML/CSS, JavaScript, postgres, GoogleMaps, Sql, Geomaps, Heroku, ETL
